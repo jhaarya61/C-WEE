@@ -3,8 +3,8 @@ header, nav, .content {
     text-align: left;
 }
 
-header{
-	background-image: linear-gradient(rgba(250, 118, 41, 0.5),rgba(235, 233, 118, 0.5),rgba(70, 132, 190, 0.5)), url(../C-WEE\ WEBSITE\ FOR\ STARTUP/Seaweed.png);
+body{
+	background-image: linear-gradient(rgba(250, 118, 41, 0.5),rgba(235, 233, 118, 0.5),rgba(70, 132, 190, 0.5)), url(assets/Seaweed.png);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
