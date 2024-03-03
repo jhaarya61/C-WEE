@@ -1,10 +1,9 @@
-/* styles.css */
 header, nav, .content{
     text-align: left;
 }
 
 body{
-	background-image: linear-gradient(rgba(240, 159, 159, 0.5),rgba(243, 240, 78, 0.5),rgba(153, 200, 245, 0.5)), url(assets/Seaweed.png);
+	background-image: url(assets/Seaweed.png);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
