@@ -1,0 +1,43 @@
+/* styles.css */
+header, nav, .content {
+    text-align: left;
+}
+
+header{
+	background-image: linear-gradient(rgba(250, 118, 41, 0.5),rgba(235, 233, 118, 0.5),rgba(70, 132, 190, 0.5)), url(../C-WEE\ WEBSITE\ FOR\ STARTUP/Seaweed.png);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	min-height: 100px;
+}
+
+.title{
+	position: inherit;
+	top: 46%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 14px 20px;
+    display: inline-block;
+}
+
+nav a:hover{
+    background-color: #ddd;
+    color: #fff;
+}
+
+.content{
+    margin: auto;
+    margin-top: 50px;
+}
+
+img{
+    display: block;
+    margin: -13px;
+    margin-top: 10px;
+    max-width: 100%;
+}
